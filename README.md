@@ -14,6 +14,7 @@ I am passionate about Data Analytics, Python Development, and Problem Solving. C
 - NumPy
 - HTML
 - CSS
+- Java script
 - Git & GitHub
 
 ## Experience
@@ -49,4 +50,4 @@ Personal portfolio website showcasing education, projects, skills, and experienc
 
 GitHub: https://github.com/abhinav1891-hub
 
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn: https://www.linkedin.com/in/abhinav-singh-306aa0353/
