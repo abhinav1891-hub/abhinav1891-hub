@@ -32,6 +32,9 @@ Desktop-based Employee Management System developed using Python, Tkinter, MySQL,
 ### Portfolio Website
 Personal portfolio website showcasing education, projects, skills, and experience.
 
+### E-commerce sales analytics
+Cleaned a sales data using numpy, pandas, python and created multiple dashboard using power BI.
+
 ## Currently Learning
 
 - Data Structures & Algorithms
